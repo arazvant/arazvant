@@ -15,3 +15,5 @@ Maybe work on some new idea, teach my fingers to play guitar or take on a new pe
 🌐 Want to find more about me, check my website: http://ralportfolio.herokuapp.com
 
 📓 Want to read some cool articles, chech out my medium : https://medium.com/@alexandrurazvant
+
+And yes, I love racoons!
