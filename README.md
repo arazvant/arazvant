@@ -8,3 +8,4 @@ I'm a: **Machine Learning Engineer | Blockchain & Web Enthusiast | Python Contra
 - 📫 Reach me out at : alexandrurazvant@gmail.com
 - 📓 Stay tuned for my blog posts: [Medium](https://medium.com/@alexandrurazvant", "Alexandru Razvant")
 
+![Visits](https://komarev.com/ghpvc/?username=Joywalker)
