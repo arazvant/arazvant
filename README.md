@@ -1,18 +1,10 @@
-🧑‍💻 Well rounded software engineer, with a keen interest in Machine Learning, Blockchain & Web3.0 and Freelancing.
+My name is Alex 👋
+---
+I'm a: **Machine Learning Engineer | Blockchain & Web Enthusiast | Python Contractor**
 
-💻 Highly motivated, success oriented individual, seeking the touch of perfection in each line of code I write.
-   I'm dedicated to build awesome projects that will bring me joy and help others in their software journey.
-   Since I love to teach others the skills I know, why not try to teach computers too - thus my interest for Machine Learning.
+- 💻 Currently working on: NFT Platform
+- 🌱 Studying: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning", "Deep Learning Specialization from deeplearning.ai") and [Machine Learning in Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops", "MLOps")
+- 🌐 Looking to collaborate on: Deep Learning & Fullstack AI-web applications.
+- 📫 Reach me out at : alexandrurazvant@gmail.com
+- 📓 Stay tuned for my blog posts: [Medium](https://medium.com/@alexandrurazvant", "Alexandru Razvant")
 
----------------------------------------------------------------------------------------------
-⏱ In my spare time, I read business, history, finance and biology books and articles.
-
-
----------------------------------------------------------------------------------------------
-💬 Feel free to drop me an email at alexandrurazvant@gmail.com, I'm open to collaborate.
-
-🌐 Want to find more about me, check my website: http://ralportfolio.herokuapp.com
-
-📓 Want to read some cool articles, chech out my medium : https://medium.com/@alexandrurazvant
-
-And yes, I love racoons!
