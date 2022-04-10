@@ -6,7 +6,6 @@
 
 ---------------------------------------------------------------------------------------------
 ⏱ In my spare time, I read business, history, finance and biology books and articles.
-Maybe work on some new idea, teach my fingers to play guitar or take on a new personal project.
 
 
 ---------------------------------------------------------------------------------------------
