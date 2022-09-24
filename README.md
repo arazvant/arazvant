@@ -11,6 +11,15 @@ Feel free to contact me, let's have a quick chat and see how I can help !
 - [Email](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:)
 - [Website](www.neuraleaps.com)
 
+### Connect with me:
+
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119/)
+&nbsp;&nbsp;
+[![website](./img/website.svg)](https://neuraleaps.com)
+&nbsp;&nbsp;
+[![website](./img/gmail.svg)](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:)
+&nbsp;&nbsp;
+[![website](./img/upwork.svg)](https://www.upwork.com/freelancers/~014393eee1959a007e)
 
 ### :card_index_dividers: Study Material
 On my journey to improve my Machine Learning/ML Ops skills, I've gathered a list of great resources that helped me a lot.
