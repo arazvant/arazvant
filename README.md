@@ -42,8 +42,10 @@ Feel free to contact me, let's have a quick chat and see how I can help !
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <br />
 
-&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
+
+
 ### :briefcase: Study Material
 On my journey to improve my Machine Learning/ML Ops skills, I've gathered a list of great resources that helped me a lot, check them out:
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning", "Deep Learning Specialization from deeplearning.ai")
