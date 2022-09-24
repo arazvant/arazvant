@@ -1,19 +1,22 @@
-<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/title.png">
+<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/NeuraLeapsBanner.png">
 
-#
+# 🏄‍♂️ Razvant Alexandru
+**`Digital Nomad (Developer/Freelancer/Entrepreneur/CEO @NeuraLeaps)`**
 
-<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/NeuraLeaps.png">
+I'm a software developer, with a keen interest towards Full Stack Machine Learning and Web Development, currently building my startup - @NeuraLeaps, where I aim to apply my skills I've acquired during my 4+ years period of working as a Python, Machine Learning, Computer Vision Engineer and [Upwork](https://www.upwork.com/freelancers/~014393eee1959a007e) Contractor, in order to help tech/non-tech businesses embrace the value Artificial Intelligence can bring. 
 
-My name is Alex 👋
----
-I'm a: **Python & Machine Learning Contractor | FullStack & MLOps | CEO NeuraLeaps**
+Feel free to contact me, let's have a quick chat and see how I can help !
+- [Upwork](https://www.upwork.com/freelancers/~014393eee1959a007e)
+- [LinkedIn](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119/)
+- [Email](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:)
+- [Website](www.neuraleaps.com)
 
-- 💻 Currently working on: NeuraLeaps
-- 🌱 Learning: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning", "Deep Learning Specialization from deeplearning.ai") and [Machine Learning in Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops", "MLOps")
-- 🌐 Looking to collaborate on: Deep Learning & Fullstack AI-web applications.
-- 📫 Reach me out at : alexandrurazvant@gmail.com
-- 📓 Stay tuned for my blog posts: [Medium](https://medium.com/@alexandrurazvant", "Alexandru Razvant")
 
+### :card_index_dividers: Study Material
+On my journey to improve my Machine Learning/ML Ops skills, I've gathered a list of great resources that helped me a lot.
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning", "Deep Learning Specialization from deeplearning.ai")
+- [Machine Learning in Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops", "MLOps")
+- [ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
 ### 🧰 Languages and Tools
 
@@ -36,12 +39,7 @@ I'm a: **Python & Machine Learning Contractor | FullStack & MLOps | CEO NeuraLea
 <br />
 
 #
-![Visits](https://komarev.com/ghpvc/?username=Joywalker)
-
-
-#
-
 ### 📊 Stats
-
 ![Joywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=joywalker&show_icons=true&theme=gruvbox)
 
+![Visits](https://komarev.com/ghpvc/?username=Joywalker)
