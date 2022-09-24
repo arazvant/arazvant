@@ -43,6 +43,7 @@ Feel free to contact me, let's have a quick chat and see how I can help !
 <br />
 
 &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ### :briefcase: Study Material
 On my journey to improve my Machine Learning/ML Ops skills, I've gathered a list of great resources that helped me a lot, check them out:
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning", "Deep Learning Specialization from deeplearning.ai")
