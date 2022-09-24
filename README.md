@@ -1,3 +1,9 @@
+<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/title.png">
+
+#
+
+<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/NeuraLeaps.png">
+
 My name is Alex 👋
 ---
 I'm a: **Python & Machine Learning Contractor | FullStack & MLOps | CEO NeuraLeaps**
