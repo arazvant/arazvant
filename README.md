@@ -15,6 +15,8 @@ I'm a software developer, with a keen interest towards Full Stack Machine Learni
 [![website](./img/gmail.svg)](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:)
 &nbsp;&nbsp;
 [![website](./img/upwork.svg)](https://www.upwork.com/freelancers/~014393eee1959a007e)
+&nbsp;&nbsp;
+[![website](./img/medium.svg)](https://medium.com/@alexandrurazvant)
 
 Feel free to contact me, let's have a quick chat and see how I can help !
 
