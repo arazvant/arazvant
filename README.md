@@ -8,20 +8,20 @@ I'm a software developer, with a keen interest towards Full Stack Machine Learni
 ### Connect with me:
 
 
-[![website](./img/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119/)
-[![website](./img/linkedin_light.svg#gh-light-mode-only)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119/)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119#gh-dark-mode-only)
+[![website](./img/linkedin_light.svg)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/website.svg#gh-dark-mode-only)](https://neuraleaps.com)
-[![website](./img/website_light.svg#gh-light-mode-only)](https://neuraleaps.com)
+[![website](./img/website.svg)](https://neuraleaps.com#gh-dark-mode-only)
+[![website](./img/website_light.svg)](https://neuraleaps.com#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/gmail.svg#gh-dark-mode-only)](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:)
-[![website](./img/gmail_light.svg#gh-light-mode-only)](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:)
+[![website](./img/gmail.svg)](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
+[![website](./img/gmail_light.svg)](mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/upwork.svg#gh-dark-mode-only)](https://www.upwork.com/freelancers/~014393eee1959a007e)
-[![website](./img/upwork_light.svg#gh-light-mode-only)](https://www.upwork.com/freelancers/~014393eee1959a007e)
+[![website](./img/upwork.svg)](https://www.upwork.com/freelancers/~014393eee1959a007e#gh-dark-mode-only)
+[![website](./img/upwork_light.svg)](https://www.upwork.com/freelancers/~014393eee1959a007e#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/medium.svg#gh-dark-mode-only)](https://medium.com/@alexandrurazvant)
-[![website](./img/medium_light.svg#gh-light-mode-only)](https://medium.com/@alexandrurazvant)
+[![website](./img/medium.svg)](https://medium.com/@alexandrurazvant#gh-dark-mode-only)
+[![website](./img/medium_light.svg)](https://medium.com/@alexandrurazvant#gh-light-mode-only)
 
 Feel free to contact me, let's have a quick chat and see how I can help !
 
