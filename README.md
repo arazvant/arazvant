@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/joywalker/joywalker/main/NeuraLeapsBanner.png">
 
 # 🏄‍♂️ Razvant Alexandru
-**`Digital Nomad (Developer/Freelancer/Entrepreneur/CEO)`**
+**`Digital Nomad (Entrepreneur/Contractor/CEO)`**
 
 I'm a software developer, with a keen interest towards Full Stack Machine Learning and Web Development, currently building my startup - @NeuraLeaps, where I aim to apply my skills I've acquired during my 4+ years period of working as a Python, Machine Learning, Computer Vision Engineer and [Upwork](https://www.upwork.com/freelancers/~014393eee1959a007e) Contractor, in order to help tech/non-tech businesses embrace the value Artificial Intelligence can bring. 
 
