@@ -58,6 +58,8 @@ On my journey to improve my Machine Learning/ML Ops skills, I've gathered a list
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning", "Deep Learning Specialization from deeplearning.ai")
 - [Machine Learning in Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops", "MLOps")
 - [ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- Clean Architecture Robert C. Martin
+- Designing Machine Learning Systems by Chip Huyen
 &nbsp;&nbsp;
 
 #
