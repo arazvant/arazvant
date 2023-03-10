@@ -3,9 +3,9 @@
 [NeuraLeaps Website](https://neuraleaps.com)
 
 # 🏄‍♂️ Razvant Alexandru
-**`Digital Nomad (Entrepreneur/Contractor/CEO)`**
+**`Digital Nomad (Founder @NeuraLeaps | Senior ML/ComputerVision Engineer @Everseen | Freelacer)`**
 
-I'm a software developer, with a keen interest towards Full Stack Machine Learning and Web Development, currently building my startup - @NeuraLeaps, where I aim to apply my skills I've acquired during my 4+ years period of working as a Python, Machine Learning, Computer Vision Engineer and [Upwork](https://www.upwork.com/freelancers/~014393eee1959a007e) Contractor, in order to help tech/non-tech businesses embrace the value Artificial Intelligence can bring. 
+I'm a software developer, with a keen interest towards Full Stack Machine Learning and Web Development, currently building my startup - @NeuraLeaps, where I aim to apply my skills I've acquired during my 4+ years period of working as a Python, Machine Learning, Computer Vision Engineer and [Upwork](https://www.upwork.com/freelancers/~014393eee1959a007e) Freelancer, in order to help tech/non-tech businesses embrace the value Artificial Intelligence can bring. 
 
 ### Connect with me:
 
