@@ -70,8 +70,3 @@ On my journey to improve my Machine Learning/ML Ops skills, I've gathered a list
 ![Joywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=joywalker&show_icons=true&theme=gruvbox)
 
 ![Visits](https://komarev.com/ghpvc/?username=Joywalker)
-
-### Contributor
-[NeuraLeaps](https://github.com/Neural-Leaps-Unlimited)
-
-[Odeen](https://github.com/OdeenRo)
