@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/NeuraLeapsBanner.png">
+<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/Medium Center Logo CTA.png">
 
 
-# 🏄‍♂ Razvant Alexandru
-**`Digital Nomad (Founder @NeuraLeaps | Senior ML/ComputerVision Engineer @Everseen | Freelacer)`**
+# Alex Razvan
+**`Senior Deep Learning Engineer (Platform Engineering @Everseen | Author @NeuralBits Newsletter | Freelancer)`**
 
 
 
