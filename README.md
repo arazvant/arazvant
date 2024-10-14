@@ -2,7 +2,7 @@
 
 
 # Alex Razvan
-**`Senior Deep Learning Engineer (Platform Engineering @Everseen | Author @NeuralBits Newsletter | Freelancer)`**
+**`Senior AI/ML Engineer (ML Platform Engineer @ Everseen | Author @NeuralBits Newsletter | Freelancer)`**
 
 
 
