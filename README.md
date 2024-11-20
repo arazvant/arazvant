@@ -2,7 +2,7 @@
 
 
 # Alex Razvan
-**`Senior AI/ML Engineer (ML Platform Engineer @ Everseen | Author @NeuralBits Newsletter | Freelancer)`**
+**`Senior AI/ML Engineer (ML Platform Engineer @ Everseen | Writing @NeuralBits Newsletter | Freelancer)`**
 
 
 
@@ -47,7 +47,6 @@ Feel free to contact me, let's have a quick chat and see how I can help !
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <br />
 
-<br/>
 <br/>
 
 #
