@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/Medium Center Logo CTA.png">
+<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/banners/[Dark]_XFeaturePro.png">
 
 
 # Alex Razvan
