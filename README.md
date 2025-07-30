@@ -50,6 +50,6 @@
 #
 
 ### 📊 Stats
-![Joywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=joywalker&show_icons=true&theme=gruvbox)
+![Joywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=arazvant&show_icons=true&theme=gruvbox)
 
-![Visits](https://komarev.com/ghpvc/?username=Joywalker)
+![Visits](https://komarev.com/ghpvc/?username=arazvant)
