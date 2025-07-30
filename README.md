@@ -2,11 +2,11 @@
 
 
 # Alex Razvan
-**`Senior AI/ML Engineer (ML Platform Engineer @ Everseen | Writing @NeuralBits Newsletter | Freelancer)`**
+**`Senior AI/ML Engineer | Author @MultimodalAI Newsletter | Helping you master production-ready AI!`**
 
 
 
-### Connect with me:
+### Connect:
 
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119#gh-dark-mode-only)
 [![website](./img/linkedin_light.svg)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119#gh-light-mode-only)
@@ -22,8 +22,6 @@
 &nbsp;&nbsp;
 [![website](./img/medium.svg)](https://medium.com/@alexandrurazvant#gh-dark-mode-only)
 [![website](./img/medium_light.svg)](https://medium.com/@alexandrurazvant#gh-light-mode-only)
-
-Feel free to contact me, let's have a quick chat and see how I can help !
 
 #
 
