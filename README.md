@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/joywalker/joywalker/main/banners/[Dark]_XFeaturePro.png">
 
-
-# Alex Razvan
-**`Senior AI/ML Engineer | Author @MultimodalAI Newsletter | Helping you master production-ready AI!`**
-
+# Alex Razvant
+**`Senior AI/ML Engineer | Founder @MultimodalAI | Helping you master production-ready AI!`**
 
 
 ### Connect:
@@ -23,7 +21,6 @@
 [![website](./img/medium.svg)](https://medium.com/@alexandrurazvant#gh-dark-mode-only)
 [![website](./img/medium_light.svg)](https://medium.com/@alexandrurazvant#gh-light-mode-only)
 
-#
 
 ### 🧰 Languages and Tools
 
