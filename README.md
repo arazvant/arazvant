@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/joywalker/joywalker/main/banners/[Dark]_XFeaturePro.png">
-
 # Alex Razvant
-**`Senior AI/ML Engineer | Founder @MultimodalAI | Helping you master production-ready AI!`**
+**`Senior AI/ML Engineer | Founder @The AI Merge | Building and shipping AI beyond demos.`**
 
+## TBD: Will update this further ;)
 
 ### Connect:
 
+<!-- 
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119#gh-dark-mode-only)
 [![website](./img/linkedin_light.svg)](https://www.linkedin.com/in/alexandru-r%C4%83zvan%C8%9B-2b4226119#gh-light-mode-only)
 &nbsp;&nbsp;
@@ -20,11 +20,11 @@
 &nbsp;&nbsp;
 [![website](./img/medium.svg)](https://medium.com/@alexandrurazvant#gh-dark-mode-only)
 [![website](./img/medium_light.svg)](https://medium.com/@alexandrurazvant#gh-light-mode-only)
-
+-->
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<!-- <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -39,7 +39,7 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> -->
 <br />
 
 <br/>
@@ -48,5 +48,4 @@
 
 ### 📊 Stats
 ![Joywalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=arazvant&show_icons=true&theme=gruvbox)
-
 ![Visits](https://komarev.com/ghpvc/?username=arazvant)
