@@ -135,12 +135,12 @@ I like to think about Software and AI grouped in three ladders, which is the way
   <img src="./assets/cta-banner.svg?v=2" width="100%" alt="Become an AI Engineer — theaimerge.com" />
 </a>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="25%" align="center"><a href="https://theaimerge.com"><img src="https://img.shields.io/badge/Visit-theaimerge.com-D95319?style=for-the-badge&logoColor=F8F6F2" /></a></td>
+<td width="30%" align="center"><a href="https://theaimerge.com"><img src="https://img.shields.io/badge/Visit-theaimerge.com-D95319?style=for-the-badge&logoColor=F8F6F2" /></a></td>
 <td width="25%" align="center"><a href="https://read.theaimerge.com"><img src="https://img.shields.io/badge/Join-10%2C000%2B%20Engineers-1C1B19?style=for-the-badge" /></a></td>
 <td width="25%" align="center"><a href="https://theaimerge.com"><img src="https://img.shields.io/badge/The%20AI%20Atlas-Join%20Waitlist-1C1B19?style=for-the-badge" /></a></td>
-<td width="25%" align="center"><a href="https://www.youtube.com/@theaimerge"><img src="https://img.shields.io/badge/Watch-YouTube-1C1B19?style=for-the-badge&logo=youtube&logoColor=F8F6F2" /></a></td>
+<td width="30%" align="center"><a href="https://www.youtube.com/@theaimerge"><img src="https://img.shields.io/badge/Watch-YouTube-1C1B19?style=for-the-badge&logo=youtube&logoColor=F8F6F2" /></a></td>
 </tr>
 </table>
 
