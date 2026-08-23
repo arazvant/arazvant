@@ -47,7 +47,7 @@ Building and teaching production AI systems - day job at Axon, everything else t
 <tr><td><b>Patch</b> — a local voice companion / desk assistant running on an NVIDIA DGX Spark, with an iPhone as its mic, display, and approval surface</td><td align="right"><sub>Soon</sub></td></tr>
 </table>
 
-The stack I build all of this with, grouped the way I teach it — three ladders, not a skills checklist.
+I like to think about Software and AI grouped in three ladders, which is the way I also teach it.
 
 **Foundations**
 
@@ -120,7 +120,7 @@ The stack I build all of this with, grouped the way I teach it — three ladders
 
 ## Why follow
 
-*Less hype. More engineering.* If you're a software engineer trying to actually understand AI, not just call an API, here's what's in it for you:
+*We need less hype. More engineering.* If you're a software engineer trying to actually understand AI, not just call an API, here's what's in it for you:
 
 - **[The AI Merge](https://theaimerge.com)** — field notes and deep dives on production AI systems, no prompt lists. Grew from ~300 to 10,000+ subscribers in a year.
 - Early access to **The AI Atlas**, a 220+ slide visual guide to the whole AI stack — hardware, training, inference, agents, deployment
