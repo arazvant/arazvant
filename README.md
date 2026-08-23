@@ -129,7 +129,7 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 <br/>
 
-## CTAs
+---
 
 <a href="https://theaimerge.com">
   <img src="./assets/cta-banner.svg?v=2" width="100%" alt="Become an AI Engineer — theaimerge.com" />
