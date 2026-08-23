@@ -136,20 +136,18 @@ The stack I build all of this with, grouped the way I teach it — three ladders
 
 ## CTAs
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#1C1B19">
-<br/>
+<p align="center">
+  <img src="./assets/cta-banner.svg" width="100%" alt="Get in the ecosystem" />
+</p>
+
+<p align="center">
 
 [![Visit theaimerge.com](https://img.shields.io/badge/Visit-theaimerge.com-D95319?style=for-the-badge&logoColor=F8F6F2)](https://theaimerge.com)
-[![Join the newsletter](https://img.shields.io/badge/Join-10%2C000%2B%20Engineers-F8F6F2?style=for-the-badge)](https://read.theaimerge.com)
-[![AI Atlas waitlist](https://img.shields.io/badge/The%20AI%20Atlas-Join%20Waitlist-F8F6F2?style=for-the-badge)](https://theaimerge.com)
-[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-F8F6F2?style=for-the-badge&logo=youtube&logoColor=1C1B19)](https://www.youtube.com/@theaimerge)
+[![Join the newsletter](https://img.shields.io/badge/Join-10%2C000%2B%20Engineers-1C1B19?style=for-the-badge)](https://read.theaimerge.com)
+[![AI Atlas waitlist](https://img.shields.io/badge/The%20AI%20Atlas-Join%20Waitlist-1C1B19?style=for-the-badge)](https://theaimerge.com)
+[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-1C1B19?style=for-the-badge&logo=youtube&logoColor=F8F6F2)](https://www.youtube.com/@theaimerge)
 
-<br/>
-</td>
-</tr>
-</table>
+</p>
 
 <br/>
 
