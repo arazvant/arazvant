@@ -165,10 +165,16 @@ I like to think about Software and AI grouped in three ladders, which is the way
 <img src="https://streak-stats.demolab.com/?user=arazvant&background=F8F6F2&border=E4E1DA&ring=D95319&fire=D95319&currStreakLabel=1C1B19&sideLabels=1C1B19&currStreakNum=1C1B19&sideNums=1C1B19&dates=A09F9A&stroke=E4E1DA" width="65%" alt="streak" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="./assets/footer-rule.svg" width="100%" alt="" />
+</p>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arazvant/arazvant/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arazvant/arazvant/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/arazvant/arazvant/output/snake.svg" width="100%" height="90" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/arazvant/arazvant/output/snake.svg" width="100%" />
 </picture>
 </p>
