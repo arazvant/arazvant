@@ -1,147 +1,173 @@
 <!--
   README for github.com/arazvant
-  Brand palette: teal #17B890 · burnt orange #E8622C · charcoal #0D1117
-  Sections marked "PLACEHOLDER" reference local files that don't exist yet —
-  drop your own image in at that path (same filename) and it'll pick up automatically.
+  Palette pulled directly from theaimerge.com: cream #F8F6F2, charcoal #1C1B19,
+  terracotta #D95319, peach highlight #F3D2C4, muted gray #A09F9A.
+  assets/header.svg and assets/footer.svg are hand-built, self-hosted SVGs
+  (no third-party generator) using the real logo mark from theaimerge.com.
+  PLACEHOLDER: drop a headshot at assets/profile-photo.png (~300x300px) to fill that slot below.
 -->
 
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Alex Razvant — The AI Merge" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:17B890,100:E8622C&height=230&section=header&text=Alex%20Razvant&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Software%20Engineer,%20AI%20%40%20Axon%20%C2%B7%20Founder%20%40%20The%20AI%20Merge&descAlignY=52&descSize=18&descColor=ffffff" width="100%" alt="header" />
-
-<!-- PLACEHOLDER: headshot — drop a square/circular photo at assets/profile-photo.png (~400x400px) -->
-<img src="./assets/profile-photo.png" width="140" height="140" style="border-radius:50%;object-fit:cover;border:3px solid #17B890;" alt="Alex Razvant" />
-
-<br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=17B890&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=60&lines=Building+large-scale+Vision+AI+%26+VLM+systems+%40+Axon;Founder+%40+The+AI+Merge+%E2%80%94+7%2C300%2B+AI+engineers;NVIDIA+Partner+%C2%B7+Creator+of+Kubrick+(576%E2%98%85);Writing+about+production+AI+systems%2C+not+demos." alt="typing-svg" />
-</a>
-
-<br/>
-
-[![Axon](https://img.shields.io/badge/Axon-Senior%20SWE%20I%2C%20AI-000000?style=for-the-badge)](https://www.axon.com)
-[![The AI Merge](https://img.shields.io/badge/The%20AI%20Merge-Founder-17B890?style=for-the-badge)](https://theaimerge.com)
-[![NVIDIA Partner](https://img.shields.io/badge/NVIDIA-Partner-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://read.theaimerge.com/p/ive-partnered-with-nvidia)
-[![Location](https://img.shields.io/badge/Brasov-Romania-E8622C?style=for-the-badge)](https://en.wikipedia.org/wiki/Bra%C8%99ov)
-
-</div>
+<p align="center">
+<a href="https://www.axon.com"><img src="https://img.shields.io/badge/-Axon%20%C2%B7%20Senior%20SWE%20I%2C%20AI-1C1B19?style=flat-square" /></a>
+<a href="https://theaimerge.com"><img src="https://img.shields.io/badge/-Founder%2C%20The%20AI%20Merge-1C1B19?style=flat-square" /></a>
+<a href="https://read.theaimerge.com/p/ive-partnered-with-nvidia"><img src="https://img.shields.io/badge/-NVIDIA%20Partner-D95319?style=flat-square&logo=nvidia&logoColor=F8F6F2" /></a>
+<a href="https://en.wikipedia.org/wiki/Bra%C8%99ov"><img src="https://img.shields.io/badge/-Brasov%2C%20Romania-1C1B19?style=flat-square" /></a>
+</p>
 
 <br/>
 
 ## About
 
-Nearly a decade in AI — from perception research to production systems at scale:
-
 <table>
-<tr><td width="120"><b>Research</b></td><td>AI Researcher — 3D world modeling &amp; perception for autonomous vehicles, published research (2020)</td></tr>
-<tr><td><b>Everseen</b> · 4 yrs</td><td>Trained models, built Vision AI systems, ran MLOps workflows end-to-end</td></tr>
-<tr><td><b>Axon</b> · Now</td><td>Senior Software Engineer I, AI — large-scale Vision AI &amp; Vision-Language Model (VLM) systems</td></tr>
-<tr><td><b>The AI Merge</b> · Now</td><td>Founder &amp; writer — teaching production AI engineering to 7,300+ subscribers</td></tr>
+<tr>
+<td width="112" valign="top">
+<!-- PLACEHOLDER: headshot — drop a photo at assets/profile-photo.png -->
+<img src="./assets/profile-photo.png" width="96" height="96" alt="" />
+</td>
+<td valign="top">
+Nearly a decade across software, machine learning, deep learning, and computer vision — from publishing perception research to running AI systems in production. I care about what happens <b>after</b> the demo: data, scale, infrastructure, reliability, and how systems actually fail once real users show up.
+</td>
+</tr>
 </table>
 
-I care about what happens **after** the demo: data, scale, infrastructure, reliability, and how systems actually fail in production.
-
-<br/>
-
-## 🚀 The AI Merge
-
-*Less hype. More engineering.* — a technical publication for engineers designing, building, and deploying production AI systems.
-
-<!-- PLACEHOLDER: swap in a wordmark/logo for The AI Merge at assets/ai-merge-logo.png -->
-<img src="./assets/ai-merge-logo.png" width="220" alt="The AI Merge" align="right" />
-
-- 📈 Grew from ~300 → **7,300+ subscribers** in 2025 (24x)
-- 🤝 Official **NVIDIA content partner** — tutorials on CUDA, TensorRT, NIM, and RTX; recipient of an NVIDIA DGX Spark
-- 🎬 Co-created **[Kubrick](https://github.com/the-ai-merge/multimodal-agents-course)** — an open-source multimodal AI agent course with Miguel Otero Pedrido — **576+ ⭐**
-- 🎓 Building a full end-to-end **AI Systems course** for engineers who want the whole stack, not just prompts
-- 📺 **YouTube channel launching** — long-form system design walkthroughs and live coding
-
-<!-- PLACEHOLDER: YouTube channel art / preview thumbnail at assets/youtube-banner.png -->
-<img src="./assets/youtube-banner.png" width="100%" alt="The AI Merge on YouTube" />
-
-**[Read the newsletter →](https://read.theaimerge.com)** · **[theaimerge.com →](https://theaimerge.com)**
-
-<br clear="right"/>
-
-## 📌 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-  <td width="60%"><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick — Multimodal Agents Course</b></a><br/>An MCP multimodal AI agent with eyes and ears, co-built with Miguel Otero Pedrido.</td>
-  <td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=for-the-badge&color=17B890&labelColor=0D1117" /></td>
+<td width="48" valign="top"><b><font color="#D95319">01</font></b></td>
+<td valign="top"><b>AI Researcher</b> — 3D world modeling &amp; perception for autonomous vehicles, published research (2020)</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/the-ai-merge/production-hub"><b>Production Hub</b></a><br/>Hands-on techniques to optimize and serve AI models to production the right way.</td>
-  <td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/production-hub?style=for-the-badge&color=17B890&labelColor=0D1117" /></td>
+<td valign="top"><b><font color="#D95319">02</font></b></td>
+<td valign="top"><b>Computer Vision Engineer</b>, Everseen · 4 yrs — in-store vision systems, model training, MLOps end-to-end</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/the-ai-merge/computer-vision-hub"><b>Computer Vision Hub</b></a><br/>Building Computer Vision &amp; Deep Learning solutions on video/image data.</td>
-  <td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/computer-vision-hub?style=for-the-badge&color=17B890&labelColor=0D1117" /></td>
+<td valign="top"><b><font color="#D95319">03</font></b></td>
+<td valign="top"><b>Senior Software Engineer I, AI</b>, Axon · current — large-scale Vision AI &amp; Vision-Language Model systems</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/theaimerge/ai-programming-hub"><b>AI Programming Hub</b></a><br/>Experimenting with C++, CUDA, Rust, and OpenAI Triton for ML performance.</td>
-  <td align="right"><img src="https://img.shields.io/github/stars/theaimerge/ai-programming-hub?style=for-the-badge&color=17B890&labelColor=0D1117" /></td>
+<td valign="top"><b><font color="#D95319">04</font></b></td>
+<td valign="top"><b>Founder &amp; Writer</b>, The AI Merge · current — teaching production AI engineering, NVIDIA content partner</td>
 </tr>
 </table>
 
 <br/>
 
-## 🧰 Tech Stack
+<table width="100%">
+<tr align="center">
+<td width="25%"><h2><font color="#D95319">10,000+</font></h2>Newsletter subscribers</td>
+<td width="25%"><h2><font color="#D95319">576+</font></h2>Stars on Kubrick</td>
+<td width="25%"><h2><font color="#D95319">~9</font></h2>Years in AI &amp; CV</td>
+<td width="25%"><h2><font color="#D95319">1</font></h2>NVIDIA partnership</td>
+</tr>
+</table>
 
-**Languages & Runtime**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,golang,typescript&theme=dark" alt="languages" />
+## The AI Merge
+
+*Less hype. More engineering.* A technical publication for engineers designing, building, and deploying production AI systems — grew from ~300 to 10,000+ subscribers.
+
+- Official **NVIDIA content partner** — tutorials on CUDA, TensorRT, NIM, and RTX; recipient of an NVIDIA DGX Spark
+- Co-created **[Kubrick](https://github.com/the-ai-merge/multimodal-agents-course)**, an open-source multimodal AI agent course with Miguel Otero Pedrido
+- Building **The AI Atlas** — a 220+ slide visual guide to the AI stack: hardware, training, inference, agents, deployment
+- Publishing on **[YouTube](https://www.youtube.com/@theaimerge)** — system design walkthroughs and live coding
+
+**[read.theaimerge.com →](https://read.theaimerge.com)** &nbsp;·&nbsp; **[theaimerge.com →](https://theaimerge.com)**
+
+<br/>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+  <td width="65%"><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick — Multimodal Agents Course</b></a><br/><sub>An MCP multimodal AI agent with eyes and ears, co-built with Miguel Otero Pedrido.</sub></td>
+  <td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/the-ai-merge/production-hub"><b>Production Hub</b></a><br/><sub>Hands-on techniques to optimize and serve AI models to production.</sub></td>
+  <td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/production-hub?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/the-ai-merge/computer-vision-hub"><b>Computer Vision Hub</b></a><br/><sub>Building Computer Vision &amp; Deep Learning solutions on video/image data.</sub></td>
+  <td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/computer-vision-hub?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/theaimerge/ai-programming-hub"><b>AI Programming Hub</b></a><br/><sub>Experimenting with C++, CUDA, Rust, and OpenAI Triton for ML performance.</sub></td>
+  <td align="right"><img src="https://img.shields.io/github/stars/theaimerge/ai-programming-hub?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/-Python-1C1B19?style=flat-square&logo=python&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-C++-1C1B19?style=flat-square&logo=cplusplus&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-Rust-1C1B19?style=flat-square&logo=rust&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-Go-1C1B19?style=flat-square&logo=go&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-TypeScript-1C1B19?style=flat-square&logo=typescript&logoColor=F8F6F2" />
 
 **AI / ML / Vision**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ml-frameworks" />
-&nbsp;
-![CUDA](https://img.shields.io/badge/CUDA-black?style=for-the-badge&logo=nvidia&logoColor=76B900)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
-![NVIDIA Triton](https://img.shields.io/badge/NVIDIA%20Triton-black?style=for-the-badge&logo=nvidia&logoColor=76B900)
+<br/>
+<img src="https://img.shields.io/badge/-PyTorch-1C1B19?style=flat-square&logo=pytorch&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-TensorFlow-1C1B19?style=flat-square&logo=tensorflow&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-OpenCV-1C1B19?style=flat-square&logo=opencv&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-CUDA-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-NVIDIA%20Triton-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-OpenAI-1C1B19?style=flat-square" />
 
 **LLM Systems / Agents / Inference**
+<br/>
+<img src="https://img.shields.io/badge/-MCP-1C1B19?style=flat-square" />
+<img src="https://img.shields.io/badge/-Groq-1C1B19?style=flat-square" />
+<img src="https://img.shields.io/badge/-Opik-1C1B19?style=flat-square" />
+<img src="https://img.shields.io/badge/-Pixeltable-1C1B19?style=flat-square" />
 
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-17B890?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-black?style=for-the-badge&logo=groq&logoColor=F55036)
-![Opik](https://img.shields.io/badge/Opik-LLM%20Observability-E8622C?style=for-the-badge)
-![Pixeltable](https://img.shields.io/badge/Pixeltable-Multimodal%20Data-17B890?style=for-the-badge)
-
-**Serving, Infra & Data**
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,mongodb,gcp&theme=dark" alt="infra" />
+**Serving, Infra &amp; Data**
+<br/>
+<img src="https://img.shields.io/badge/-FastAPI-1C1B19?style=flat-square&logo=fastapi&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-Docker-1C1B19?style=flat-square&logo=docker&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-MongoDB-1C1B19?style=flat-square&logo=mongodb&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-GCP-1C1B19?style=flat-square&logo=googlecloud&logoColor=F8F6F2" />
 
 **Web**
-
-<img src="https://skillicons.dev/icons?i=typescript,react&theme=dark" alt="web" />
+<br/>
+<img src="https://img.shields.io/badge/-TypeScript-1C1B19?style=flat-square&logo=typescript&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-React-1C1B19?style=flat-square&logo=react&logoColor=F8F6F2" />
 
 <br/>
 
-## 🔗 Connect
+## Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arazvant/"><img src="./img/linkedin.svg#gh-dark-mode-only" width="30" alt="LinkedIn" align="left" style="padding-right:10px;"/></a>
-<a href="https://www.linkedin.com/in/arazvant/"><img src="./img/linkedin_light.svg#gh-light-mode-only" width="30" alt="LinkedIn" align="left" style="padding-right:10px;"/></a>
-<a href="https://theaimerge.com"><img src="./img/website.svg#gh-dark-mode-only" width="30" alt="Website" align="left" style="padding-right:10px;"/></a>
-<a href="https://theaimerge.com"><img src="./img/website_light.svg#gh-light-mode-only" width="30" alt="Website" align="left" style="padding-right:10px;"/></a>
-<a href="mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:"><img src="./img/gmail.svg#gh-dark-mode-only" width="30" alt="Email" align="left" style="padding-right:10px;"/></a>
-<a href="mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:"><img src="./img/gmail_light.svg#gh-light-mode-only" width="30" alt="Email" align="left" style="padding-right:10px;"/></a>
-<a href="https://medium.com/@arazvant"><img src="./img/medium.svg#gh-dark-mode-only" width="30" alt="Medium" align="left" style="padding-right:10px;"/></a>
-<a href="https://medium.com/@arazvant"><img src="./img/medium_light.svg#gh-light-mode-only" width="30" alt="Medium" align="left" style="padding-right:10px;"/></a>
+<a href="https://www.linkedin.com/in/arazvant/"><img src="./img/linkedin.svg#gh-dark-mode-only" width="26" alt="LinkedIn" align="left" style="padding-right:12px;"/></a>
+<a href="https://www.linkedin.com/in/arazvant/"><img src="./img/linkedin_light.svg#gh-light-mode-only" width="26" alt="LinkedIn" align="left" style="padding-right:12px;"/></a>
+<a href="https://theaimerge.com"><img src="./img/website.svg#gh-dark-mode-only" width="26" alt="Website" align="left" style="padding-right:12px;"/></a>
+<a href="https://theaimerge.com"><img src="./img/website_light.svg#gh-light-mode-only" width="26" alt="Website" align="left" style="padding-right:12px;"/></a>
+<a href="mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:"><img src="./img/gmail.svg#gh-dark-mode-only" width="26" alt="Email" align="left" style="padding-right:12px;"/></a>
+<a href="mailto:alexandrurazvant@gmail.com?subject=[FromGitHub]%20Consult%20:"><img src="./img/gmail_light.svg#gh-light-mode-only" width="26" alt="Email" align="left" style="padding-right:12px;"/></a>
+<a href="https://medium.com/@arazvant"><img src="./img/medium.svg#gh-dark-mode-only" width="26" alt="Medium" align="left" style="padding-right:12px;"/></a>
+<a href="https://medium.com/@arazvant"><img src="./img/medium_light.svg#gh-light-mode-only" width="26" alt="Medium" align="left" style="padding-right:12px;"/></a>
 <br/><br/>
 </p>
 
-[![X](https://img.shields.io/badge/-@RazvantAlexand-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/RazvantAlexand)
-[![Substack](https://img.shields.io/badge/The_AI_Merge-FF6719?style=flat-square&logo=substack&logoColor=white)](https://read.theaimerge.com)
-[![GitHub Org](https://img.shields.io/badge/the--ai--merge-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/the-ai-merge)
+<img src="https://img.shields.io/badge/-@RazvantAlexand-1C1B19?style=flat-square&logo=x&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-The%20AI%20Merge-1C1B19?style=flat-square&logo=substack&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-the--ai--merge-1C1B19?style=flat-square&logo=github&logoColor=F8F6F2" />
+<img src="https://img.shields.io/badge/-YouTube-1C1B19?style=flat-square&logo=youtube&logoColor=F8F6F2" />
 
 <br/>
+<br/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=arazvant&theme=dark&background=0D1117&ring=17B890&fire=E8622C&currStreakLabel=17B890&border=17B890" width="70%" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=arazvant&background=F8F6F2&border=E4E1DA&ring=D95319&fire=D95319&currStreakLabel=1C1B19&sideLabels=1C1B19&currStreakNum=1C1B19&sideNums=1C1B19&dates=A09F9A&stroke=E4E1DA" width="70%" alt="streak" />
 </p>
 
 <p align="center">
@@ -153,11 +179,13 @@ I care about what happens **after** the demo: data, scale, infrastructure, relia
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/arazvant?style=for-the-badge&color=17B890&labelColor=0D1117&logo=github&logoColor=white" alt="followers" />
+<img src="https://img.shields.io/github/followers/arazvant?style=flat-square&color=1C1B19&labelColor=F8F6F2&logo=github&logoColor=1C1B19" alt="followers" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=arazvant&color=17B890&style=for-the-badge&label=Profile+Views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=arazvant&color=1C1B19&style=flat-square&label=Profile+Views" alt="profile views" />
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8622C,50:17B890,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="" />
+</p>
