@@ -1,13 +1,13 @@
 <!--
   README for github.com/arazvant
   Palette from theaimerge.com: cream #F8F6F2, charcoal #1C1B19, terracotta #D95319.
-  assets/header.svg and assets/footer.svg are hand-built — an animated grid of squares,
-  styled like a GitHub contribution graph, sweeping in left-to-right in brand colors.
-  Self-hosted, no third-party generator. Bump the ?v= query on header.svg after edits —
+  assets/header.svg and assets/cta-banner.svg are hand-built — the header is an animated
+  grid of squares, styled like a GitHub contribution graph, sweeping in left-to-right in
+  brand colors. Self-hosted, no third-party generator. Bump the ?v= query after edits —
   raw.githubusercontent.com caches aggressively and won't otherwise pick up changes.
   PLACEHOLDER: drop a headshot at assets/profile-photo.png to fill that slot below.
 
-  Page flow: Who am I -> What I do -> Why follow -> CTAs -> Connect -> (activity/footer)
+  Page flow: Who am I -> What I do -> Why follow -> CTAs -> Connect -> (activity)
 -->
 
 <p align="center">
@@ -131,18 +131,18 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 ## CTAs
 
-<p align="center">
-  <img src="./assets/cta-banner.svg" width="100%" alt="Get in the ecosystem" />
-</p>
+<a href="https://theaimerge.com">
+  <img src="./assets/cta-banner.svg?v=2" width="100%" alt="Become an AI Engineer — theaimerge.com" />
+</a>
 
-<p align="center">
-
-[![Visit theaimerge.com](https://img.shields.io/badge/Visit-theaimerge.com-D95319?style=for-the-badge&logoColor=F8F6F2)](https://theaimerge.com)
-[![Join the newsletter](https://img.shields.io/badge/Join-10%2C000%2B%20Engineers-1C1B19?style=for-the-badge)](https://read.theaimerge.com)
-[![AI Atlas waitlist](https://img.shields.io/badge/The%20AI%20Atlas-Join%20Waitlist-1C1B19?style=for-the-badge)](https://theaimerge.com)
-[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-1C1B19?style=for-the-badge&logo=youtube&logoColor=F8F6F2)](https://www.youtube.com/@theaimerge)
-
-</p>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><a href="https://theaimerge.com"><img src="https://img.shields.io/badge/Visit-theaimerge.com-D95319?style=for-the-badge&logoColor=F8F6F2" /></a></td>
+<td width="25%" align="center"><a href="https://read.theaimerge.com"><img src="https://img.shields.io/badge/Join-10%2C000%2B%20Engineers-1C1B19?style=for-the-badge" /></a></td>
+<td width="25%" align="center"><a href="https://theaimerge.com"><img src="https://img.shields.io/badge/The%20AI%20Atlas-Join%20Waitlist-1C1B19?style=for-the-badge" /></a></td>
+<td width="25%" align="center"><a href="https://www.youtube.com/@theaimerge"><img src="https://img.shields.io/badge/Watch-YouTube-1C1B19?style=for-the-badge&logo=youtube&logoColor=F8F6F2" /></a></td>
+</tr>
+</table>
 
 <br/>
 
@@ -169,10 +169,6 @@ I like to think about Software and AI grouped in three ladders, which is the way
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arazvant/arazvant/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arazvant/arazvant/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/arazvant/arazvant/output/snake.svg" width="85%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/arazvant/arazvant/output/snake.svg" width="100%" height="90" />
 </picture>
-</p>
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
