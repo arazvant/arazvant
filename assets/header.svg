@@ -376,9 +376,9 @@
 <circle cx="417.418" cy="398.692" r="24" fill="#171717" stroke="#171717" stroke-width="2"/>
 }
   </g>
-  <text x="164" y="76" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" letter-spacing="2.5" fill="#D95319">THE AI MERGE</text>
-  <text x="162" y="118" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" font-size="40" fill="#1C1B19">Alex Razvant</text>
-  <text x="164" y="145" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="15" fill="#1C1B19" opacity="0.72">Senior Software Engineer, AI @ Axon</text>
+  <text x="164" y="64" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" letter-spacing="2.5" fill="#D95319">THE AI MERGE</text>
+  <text x="162" y="106" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" font-size="40" fill="#1C1B19">Alex Razvant</text>
+  <text x="164" y="133" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="15" fill="#1C1B19" opacity="0.72">Senior Software Engineer, AI @ Axon</text>
   <rect x="0" y="188" width="1400" height="2" fill="#E4E1DA"/>
   <rect x="0" y="187" width="110" height="3" fill="#D95319"/>
 </svg>
