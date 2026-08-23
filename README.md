@@ -34,22 +34,17 @@ I'm Alex — a software engineer who ended up spending most of the last decade o
 
 <br clear="left"/>
 
-**How I work:** systems over demos. On AI-assisted coding specifically — I plan, I approve, agents execute inside that scope; I don't hand over the wheel. I'd rather ship something small end-to-end than leave three things half-built. And I try to teach whatever I just learned, in public, while it's still fresh.
-
 <br/>
 
 ## What I do
 
-Building and teaching production AI systems — day job at Axon, everything else through The AI Merge.
+Building and teaching production AI systems - day job at Axon, everything else through The AI Merge.
 
 <table width="100%">
 <tr><td width="60%"><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick</b></a> — open-source multimodal AI agent course, built with Miguel Otero Pedrido</td><td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
-<tr><td><b>MAVS</b> — edge multi-agent vision system for wildlife conservation: MLOps, MCP/A2A agents, edge inference</td><td align="right"><sub>private</sub></td></tr>
-<tr><td><b>Forge</b> — a human-gated workflow for building software with AI agents: you approve, agents execute in scope</td><td align="right"><sub>private</sub></td></tr>
-<tr><td><b>Patch</b> — a local voice companion / desk assistant running on an NVIDIA DGX Spark, with an iPhone as its mic, display, and approval surface</td><td align="right"><sub>private</sub></td></tr>
-<tr><td><a href="https://github.com/the-ai-merge/production-hub"><b>Production Hub</b></a> — techniques for optimizing and serving models in production</td><td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/production-hub?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
-<tr><td><a href="https://github.com/the-ai-merge/computer-vision-hub"><b>Computer Vision Hub</b></a> — CV &amp; deep learning on video/image data</td><td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/computer-vision-hub?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
-<tr><td><a href="https://github.com/theaimerge/ai-programming-hub"><b>AI Programming Hub</b></a> — C++, CUDA, Rust, and OpenAI Triton experiments</td><td align="right"><img src="https://img.shields.io/github/stars/theaimerge/ai-programming-hub?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
+<tr><td><b>MAVS</b> — edge multi-agent vision system for wildlife conservation: MLOps, MCP/A2A agents, edge inference</td><td align="right"><sub>Soon</sub></td></tr>
+<tr><td><b>Forge</b> — a human-gated workflow for building software with AI agents: you approve, agents execute in scope</td><td align="right"><sub>Soon</sub></td></tr>
+<tr><td><b>Patch</b> — a local voice companion / desk assistant running on an NVIDIA DGX Spark, with an iPhone as its mic, display, and approval surface</td><td align="right"><sub>Soon</sub></td></tr>
 </table>
 
 The stack I build all of this with, grouped the way I teach it — three ladders, not a skills checklist.
