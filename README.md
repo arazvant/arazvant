@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td><img src="./assets/profile-photo.gif" width="95" height="95" align="left" alt="" /></td>
-<td>I'm Alex - a Software Engineer who ended up spending most of the last decade on AI and Multimodal AI Systems. Vision AI and VLM systems at Axon. Somewhere in between I've touched most of the stack — training, edge inference, agents, MLOps, LLMOps — because the roles kept pulling me into whatever the system actually needed next.</td>
+<td>I'm Alex — a Software Engineer who ended up spending most of the last decade on AI, long enough to remember when "attention" was just a paper, not an entire industry. I've trained it, fine-tuned it, deployed it, and gotten paged at 3am when it broke in production: vision systems, multimodal AI, MLOps, plus enough web APIs and microservices to know the model is rarely the hard part. These days that's Vision AI and VLM systems at Axon by day, and The AI Merge — teaching the parts nobody warns you about — by night.</td>
 </tr>
 </table>
 
