@@ -5,7 +5,7 @@
   grid of squares, styled like a GitHub contribution graph, sweeping in left-to-right in
   brand colors. Self-hosted, no third-party generator. Bump the ?v= query after edits —
   raw.githubusercontent.com caches aggressively and won't otherwise pick up changes.
-  PLACEHOLDER: drop a headshot at assets/profile-photo.png to fill that slot below.
+  assets/profile-photo.gif is the pixel-portrait GIF, resampled to 5fps.
 
   Page flow: Who am I -> What I do -> Why follow -> CTAs -> Connect -> (activity)
 -->
@@ -28,7 +28,7 @@
 
 ## Who am I
 
-<img src="./assets/profile-photo.png" width="72" height="72" align="left" style="margin-right:14px;" alt="" />
+<img src="./assets/profile-photo.gif" width="72" height="72" align="left" style="margin-right:14px;" alt="" />
 
 I'm Alex — a software engineer who ended up spending most of the last decade on AI: perception research for autonomous vehicles, in-store computer vision at Everseen, and now Vision AI and VLM systems at Axon. Somewhere in between I've touched most of the stack — training, edge inference, agents, MLOps, LLMOps — because the roles kept pulling me into whatever the system actually needed next.
 
