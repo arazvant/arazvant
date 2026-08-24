@@ -27,14 +27,12 @@
 <br/>
 
 ## Who am I
-
-<img src="./assets/profile-photo.gif" width="72" height="72" align="left" style="margin-right:14px;" alt="" />
-
-I'm Alex — a software engineer who ended up spending most of the last decade on AI: perception research for autonomous vehicles, in-store computer vision at Everseen, and now Vision AI and VLM systems at Axon. Somewhere in between I've touched most of the stack — training, edge inference, agents, MLOps, LLMOps — because the roles kept pulling me into whatever the system actually needed next.
-
-<br clear="left"/>
-
-<br/>
+<table>
+<tr>
+<td><img src="./assets/profile-photo.gif" width="95" height="95" align="left" alt="" /></td>
+<td>I'm Alex - a Software Engineer who ended up spending most of the last decade on AI and Multimodal AI Systems. Vision AI and VLM systems at Axon. Somewhere in between I've touched most of the stack — training, edge inference, agents, MLOps, LLMOps — because the roles kept pulling me into whatever the system actually needed next.</td>
+</tr>
+</table>
 
 ## What I do
 
