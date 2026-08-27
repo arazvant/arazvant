@@ -159,9 +159,9 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com/?user=arazvant&background=F8F6F2&border=E4E1DA&ring=D95319&fire=D95319&currStreakLabel=1C1B19&sideLabels=1C1B19&currStreakNum=1C1B19&sideNums=1C1B19&dates=A09F9A&stroke=E4E1DA" width="65%" alt="streak" />
-</p>
+</p> -->
 
 <br/>
 
