@@ -36,7 +36,7 @@
 
 ## What I do
 
-Building and teaching production AI systems - day job at Axon, everything else through The AI Merge.
+Building and teaching production AI systems - through The AI Merge.
 
 <table width="100%">
 <tr><td width="60%"><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick</b></a> — open-source multimodal AI agent course, built with Miguel Otero Pedrido</td><td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
