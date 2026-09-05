@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td><img src="./assets/profile-photo.gif" width="95" height="95" align="left" alt="" /></td>
-<td>I'm Alex — a Software Engineer who ended up spending most of the last decade on AI, long enough to remember when "attention" was just a paper, not an entire industry. I've trained it, fine-tuned it, deployed it, and gotten paged at 3am when it broke in production: vision systems, multimodal AI, MLOps, plus enough web APIs and microservices to know the model is rarely the hard part. These days that's Vision AI and VLM systems at Axon by day, and The AI Merge — teaching the parts nobody warns you about — by night.</td>
+<td>I'm Alex - a Senior Software Engineer who spent a decade in AI. I also create content through The AI Merge, sharing the lessons I've learned.</td>
 </tr>
 </table>
 
