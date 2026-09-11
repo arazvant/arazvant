@@ -168,11 +168,3 @@ I like to think about Software and AI grouped in three ladders, which is the way
 <p align="center">
   <img src="./assets/footer-rule.svg" width="100%" alt="" />
 </p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arazvant/arazvant/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arazvant/arazvant/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/arazvant/arazvant/output/snake.svg" width="100%" />
-</picture>
-</p>
