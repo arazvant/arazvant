@@ -38,6 +38,15 @@
 
 Building and teaching production AI systems - through The AI Merge.
 
+**At Axon**
+
+- Built the OS-to-cloud stack for a fleet of thousands of edge devices (NVIDIA Jetson, Raspberry Pi, embedded Linux) — Wind River Linux images, RAUC for A/B OTA updates, and AWS IoT Core / Device Shadows for fleet configuration and telemetry.
+- Shipped a fully on-edge DeepStream AI pipeline on Jetson — optimized models and an expert system, wired into the edge-AI service stack to stream results to the cloud. Also designed a dynamic tiered config system pushed to devices as heartbeats over IoT Device Shadows.
+- Built AI pipelines analyzing video at scale — semantic video search, image captioning, video summarization, and synthetic data generation for training, served through Triton inference on edge devices and in Kubernetes.
+- Helped build Search: ~25 microservices spanning multiple clouds, ingesting device data into a large-scale search and filtering layer that holds a low p99 under load.
+- Built agentic systems for on-call and incident management — coding-agent workflows and agents that triage production traces.
+- Pushes internally for better AI-assisted engineering: knowledge sharing, tutorials, and workshops on using AI well as an engineer.
+
 <table width="100%">
 <tr><td width="60%"><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick</b></a> — open-source multimodal AI agent course, built with Miguel Otero Pedrido</td><td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
 <tr><td><b>MAVS</b> — edge multi-agent vision system for wildlife conservation: MLOps, MCP/A2A agents, edge inference</td><td align="right"><sub>Soon</sub></td></tr>
@@ -52,6 +61,8 @@ I like to think about Software and AI grouped in three ladders, which is the way
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/-Python-1C1B19?style=flat-square&logo=python&logoColor=F8F6F2" alt="Python"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Go-1C1B19?style=flat-square&logo=go&logoColor=F8F6F2" alt="Go"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Kotlin-1C1B19?style=flat-square&logo=kotlin&logoColor=F8F6F2" alt="Kotlin"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-C%2B%2B-1C1B19?style=flat-square&logo=cplusplus&logoColor=F8F6F2" alt="C++"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Rust-1C1B19?style=flat-square&logo=rust&logoColor=F8F6F2" alt="Rust"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-PyTorch-1C1B19?style=flat-square&logo=pytorch&logoColor=F8F6F2" alt="PyTorch"/></td>
@@ -80,11 +91,16 @@ I like to think about Software and AI grouped in three ladders, which is the way
 <td align="center"><img src="https://img.shields.io/badge/-vLLM-1C1B19?style=flat-square&logo=vllm&logoColor=F8F6F2" alt="vLLM"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-TensorRT-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="TensorRT"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20Triton-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA Triton"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20DeepStream-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA DeepStream"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20Jetson-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA Jetson"/></td>
 </tr>
 <tr>
+<td align="center"><img src="https://img.shields.io/badge/-LangGraph-1C1B19?style=flat-square&logo=langgraph&logoColor=F8F6F2" alt="LangGraph"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Pydantic%20AI-1C1B19?style=flat-square&logo=pydantic&logoColor=F8F6F2" alt="Pydantic AI"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Opik-1C1B19?style=flat-square" alt="Opik"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Weights%20%26%20Biases-1C1B19?style=flat-square&logo=weightsandbiases&logoColor=F8F6F2" alt="Weights & Biases"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-MLflow-1C1B19?style=flat-square&logo=mlflow&logoColor=F8F6F2" alt="MLflow"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-AzureML-1C1B19?style=flat-square" alt="AzureML"/></td>
 </tr>
 </table>
 
@@ -92,18 +108,28 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 <table>
 <tr>
+<td align="center"><img src="https://img.shields.io/badge/-AWS-1C1B19?style=flat-square" alt="AWS"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Azure-1C1B19?style=flat-square" alt="Azure"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-AWS%20Lambda-1C1B19?style=flat-square" alt="AWS Lambda"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Amazon%20ECS-1C1B19?style=flat-square" alt="Amazon ECS"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-AWS%20CDK-1C1B19?style=flat-square" alt="AWS CDK"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Docker-1C1B19?style=flat-square&logo=docker&logoColor=F8F6F2" alt="Docker"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Kubernetes-1C1B19?style=flat-square&logo=kubernetes&logoColor=F8F6F2" alt="Kubernetes"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-FastAPI-1C1B19?style=flat-square&logo=fastapi&logoColor=F8F6F2" alt="FastAPI"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Terraform-1C1B19?style=flat-square&logo=terraform&logoColor=F8F6F2" alt="Terraform"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Django-1C1B19?style=flat-square&logo=django&logoColor=F8F6F2" alt="Django"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Angular-1C1B19?style=flat-square&logo=angular&logoColor=F8F6F2" alt="Angular"/></td>
+</tr>
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/-Redis-1C1B19?style=flat-square&logo=redis&logoColor=F8F6F2" alt="Redis"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-PostgreSQL-1C1B19?style=flat-square&logo=postgresql&logoColor=F8F6F2" alt="PostgreSQL"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-MongoDB-1C1B19?style=flat-square&logo=mongodb&logoColor=F8F6F2" alt="MongoDB"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-GCP-1C1B19?style=flat-square&logo=googlecloud&logoColor=F8F6F2" alt="GCP"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Grafana-1C1B19?style=flat-square&logo=grafana&logoColor=F8F6F2" alt="Grafana"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Prometheus-1C1B19?style=flat-square&logo=prometheus&logoColor=F8F6F2" alt="Prometheus"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Elasticsearch-1C1B19?style=flat-square&logo=elasticsearch&logoColor=F8F6F2" alt="Elasticsearch"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Go-1C1B19?style=flat-square&logo=go&logoColor=F8F6F2" alt="Go"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Splunk-1C1B19?style=flat-square&logo=splunk&logoColor=F8F6F2" alt="Splunk"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Datadog-1C1B19?style=flat-square&logo=datadog&logoColor=F8F6F2" alt="Datadog"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Jenkins-1C1B19?style=flat-square&logo=jenkins&logoColor=F8F6F2" alt="Jenkins"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-TeamCity-1C1B19?style=flat-square&logo=teamcity&logoColor=F8F6F2" alt="TeamCity"/></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/-Git-1C1B19?style=flat-square&logo=git&logoColor=F8F6F2" alt="Git"/></td>
