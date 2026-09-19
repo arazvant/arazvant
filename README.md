@@ -65,29 +65,31 @@ I like to think about Software and AI grouped in three ladders, which is the way
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/-CUDA-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="CUDA"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-LangChain-1C1B19?style=flat-square&logo=langchain&logoColor=F8F6F2" alt="LangChain"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-MCP-1C1B19?style=flat-square" alt="MCP"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Anthropic-1C1B19?style=flat-square&logo=anthropic&logoColor=F8F6F2" alt="Anthropic"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-OpenAI-1C1B19?style=flat-square&logo=openai&logoColor=F8F6F2" alt="OpenAI"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Groq-1C1B19?style=flat-square" alt="Groq"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Ollama-1C1B19?style=flat-square&logo=ollama&logoColor=F8F6F2" alt="Ollama"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-OpenCV-1C1B19?style=flat-square&logo=opencv&logoColor=F8F6F2" alt="OpenCV"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Qdrant-1C1B19?style=flat-square&logo=qdrant&logoColor=F8F6F2" alt="Qdrant"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-vLLM-1C1B19?style=flat-square&logo=vllm&logoColor=F8F6F2" alt="vLLM"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-TensorRT-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="TensorRT"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20Triton-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA Triton"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20DeepStream-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA DeepStream"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20Jetson-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA Jetson"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-TensorRT-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="TensorRT"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-vLLM-1C1B19?style=flat-square&logo=vllm&logoColor=F8F6F2" alt="vLLM"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-ONNX-1C1B19?style=flat-square&logo=onnx&logoColor=F8F6F2" alt="ONNX"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-HuggingFace-1C1B19?style=flat-square&logo=huggingface&logoColor=F8F6F2" alt="HuggingFace"/></td>
 </tr>
 <tr>
+<td align="center"><img src="https://img.shields.io/badge/-LangChain-1C1B19?style=flat-square&logo=langchain&logoColor=F8F6F2" alt="LangChain"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-LangGraph-1C1B19?style=flat-square&logo=langgraph&logoColor=F8F6F2" alt="LangGraph"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-Pydantic%20AI-1C1B19?style=flat-square&logo=pydantic&logoColor=F8F6F2" alt="Pydantic AI"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Opik-1C1B19?style=flat-square" alt="Opik"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Anthropic-1C1B19?style=flat-square&logo=anthropic&logoColor=F8F6F2" alt="Anthropic"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-OpenAI-1C1B19?style=flat-square&logo=openai&logoColor=F8F6F2" alt="OpenAI"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Ollama-1C1B19?style=flat-square&logo=ollama&logoColor=F8F6F2" alt="Ollama"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-OpenCV-1C1B19?style=flat-square&logo=opencv&logoColor=F8F6F2" alt="OpenCV"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Qdrant-1C1B19?style=flat-square&logo=qdrant&logoColor=F8F6F2" alt="Qdrant"/></td>
+</tr>
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/-Weights%20%26%20Biases-1C1B19?style=flat-square&logo=weightsandbiases&logoColor=F8F6F2" alt="Weights & Biases"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-MLflow-1C1B19?style=flat-square&logo=mlflow&logoColor=F8F6F2" alt="MLflow"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-AzureML-1C1B19?style=flat-square" alt="AzureML"/></td>
 </tr>
 </table>
+
+Also: MCP, Groq, Opik, and AzureML — no proper logo out there yet, so they don't get an icon, but they're in the daily rotation too.
 
 **Engineering**
 
