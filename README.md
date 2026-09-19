@@ -48,10 +48,10 @@ Building and teaching production AI systems - through The AI Merge.
 - Pushes internally for better AI-assisted engineering: knowledge sharing, tutorials, and workshops on using AI well as an engineer.
 
 <table width="100%">
-<tr><td width="60%"><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick</b></a> — open-source multimodal AI agent course, built with Miguel Otero Pedrido</td><td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
-<tr><td><b>MAVS</b> — edge multi-agent vision system for wildlife conservation: MLOps, MCP/A2A agents, edge inference</td><td align="right"><sub>Soon</sub></td></tr>
-<tr><td><b>Forge</b> — a human-gated workflow for building software with AI agents: you approve, agents execute in scope</td><td align="right"><sub>Soon</sub></td></tr>
-<tr><td><b>Patch</b> — a local voice companion / desk assistant running on an NVIDIA DGX Spark, with an iPhone as its mic, display, and approval surface</td><td align="right"><sub>Soon</sub></td></tr>
+<tr><td width="60%"><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick</b></a> — an MCP-based multimodal AI agent with eyes and ears: vision, voice, and memory in one open-source course, built with Miguel Otero Pedrido</td><td align="right"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></td></tr>
+<tr><td><b>MAVS</b> — edge multi-agent vision system for wildlife conservation: an MLOps pipeline trains the CV models, then an MCP/A2A agentic layer runs them at the edge</td><td align="right"><sub>Soon</sub></td></tr>
+<tr><td><b>Forge</b> — a human-gated SDLC for building with AI agents: you grill the spec, design, and plan; agents execute inside that scope through implement, review, and ship</td><td align="right"><sub>Soon</sub></td></tr>
+<tr><td><b>Patch</b> — a local voice companion on an NVIDIA DGX Spark, with an iPhone as its mic and display: captures notes into Obsidian, runs Todoist, and handles daily focus/review routines</td><td align="right"><sub>Soon</sub></td></tr>
 </table>
 
 I like to think about Software and AI grouped in three ladders, which is the way I also teach it.
