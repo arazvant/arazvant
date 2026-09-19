@@ -6,6 +6,9 @@
   brand colors. Self-hosted, no third-party generator. Bump the ?v= query after edits —
   raw.githubusercontent.com caches aggressively and won't otherwise pick up changes.
   assets/profile-photo.gif is the pixel-portrait GIF, resampled to 5fps.
+  assets/stack-*.svg are the tech-stack tile grids — every tile the same size,
+  charcoal on cream, simple-icons glyph where one exists and a monogram where it
+  doesn't. Regenerate with: python3 assets/gen_stack.py (edit the lists in there).
 
   Page flow: Who am I -> What I do -> Why follow -> CTAs -> Connect -> (activity)
 -->
@@ -58,44 +61,15 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 **Foundations**
 
-<img src="https://skillicons.dev/icons?i=python,go,kotlin,cpp,rust,pytorch,tensorflow,scikitlearn&theme=light" alt="Python, Go, Kotlin, C++, Rust, PyTorch, TensorFlow, scikit-learn" />
+<img src="./assets/stack-foundations.svg?v=1" width="100%" alt="Python, Go, Kotlin, C++, Rust, PyTorch, TensorFlow, scikit-learn" />
 
 **Systems**
 
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-CUDA-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="CUDA"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20Triton-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA Triton"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20DeepStream-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA DeepStream"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-NVIDIA%20Jetson-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="NVIDIA Jetson"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-TensorRT-1C1B19?style=flat-square&logo=nvidia&logoColor=F8F6F2" alt="TensorRT"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-vLLM-1C1B19?style=flat-square&logo=vllm&logoColor=F8F6F2" alt="vLLM"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-ONNX-1C1B19?style=flat-square&logo=onnx&logoColor=F8F6F2" alt="ONNX"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-HuggingFace-1C1B19?style=flat-square&logo=huggingface&logoColor=F8F6F2" alt="HuggingFace"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-LangChain-1C1B19?style=flat-square&logo=langchain&logoColor=F8F6F2" alt="LangChain"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-LangGraph-1C1B19?style=flat-square&logo=langgraph&logoColor=F8F6F2" alt="LangGraph"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Pydantic%20AI-1C1B19?style=flat-square&logo=pydantic&logoColor=F8F6F2" alt="Pydantic AI"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Anthropic-1C1B19?style=flat-square&logo=anthropic&logoColor=F8F6F2" alt="Anthropic"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-OpenAI-1C1B19?style=flat-square&logo=openai&logoColor=F8F6F2" alt="OpenAI"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Ollama-1C1B19?style=flat-square&logo=ollama&logoColor=F8F6F2" alt="Ollama"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-OpenCV-1C1B19?style=flat-square&logo=opencv&logoColor=F8F6F2" alt="OpenCV"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Qdrant-1C1B19?style=flat-square&logo=qdrant&logoColor=F8F6F2" alt="Qdrant"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-Weights%20%26%20Biases-1C1B19?style=flat-square&logo=weightsandbiases&logoColor=F8F6F2" alt="Weights & Biases"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-MLflow-1C1B19?style=flat-square&logo=mlflow&logoColor=F8F6F2" alt="MLflow"/></td>
-</tr>
-</table>
-
-Also: MCP, Groq, Opik, and AzureML — no proper logo out there yet, so they don't get an icon, but they're in the daily rotation too.
+<img src="./assets/stack-systems.svg?v=1" width="100%" alt="CUDA, TensorRT, Triton, DeepStream, Jetson, vLLM, ONNX, HuggingFace, OpenCV, Qdrant, LangChain, LangGraph, Pydantic AI, Anthropic, OpenAI, Ollama, MCP, Groq, Weights & Biases, MLflow, Opik, AzureML" />
 
 **Engineering**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,fastapi,django,angular,redis,postgres,mongodb,grafana,prometheus,elasticsearch,jenkins,terraform,git,github,githubactions&theme=light" alt="AWS, Azure, Docker, Kubernetes, FastAPI, Django, Angular, Redis, PostgreSQL, MongoDB, Grafana, Prometheus, Elasticsearch, Jenkins, Terraform, Git, GitHub, GitHub Actions" />
-
-Also in the rotation: AWS Lambda, ECS, and CDK; TeamCity; Splunk and Datadog; and daily-driver AI coding agents — Claude Code, Cursor, and GitHub Copilot.
+<img src="./assets/stack-engineering.svg?v=1" width="100%" alt="AWS, Azure, Lambda, ECS, CDK, Docker, Kubernetes, Terraform, FastAPI, Django, Angular, PostgreSQL, Redis, MongoDB, Elasticsearch, Grafana, Prometheus, Splunk, Datadog, Jenkins, TeamCity, Git, GitHub Actions, Claude Code, Cursor, Copilot" />
 
 <br/>
 
