@@ -58,22 +58,7 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 **Foundations**
 
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-Python-1C1B19?style=flat-square&logo=python&logoColor=F8F6F2" alt="Python"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Go-1C1B19?style=flat-square&logo=go&logoColor=F8F6F2" alt="Go"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Kotlin-1C1B19?style=flat-square&logo=kotlin&logoColor=F8F6F2" alt="Kotlin"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-C%2B%2B-1C1B19?style=flat-square&logo=cplusplus&logoColor=F8F6F2" alt="C++"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Rust-1C1B19?style=flat-square&logo=rust&logoColor=F8F6F2" alt="Rust"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-PyTorch-1C1B19?style=flat-square&logo=pytorch&logoColor=F8F6F2" alt="PyTorch"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-TensorFlow-1C1B19?style=flat-square&logo=tensorflow&logoColor=F8F6F2" alt="TensorFlow"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-NumPy-1C1B19?style=flat-square&logo=numpy&logoColor=F8F6F2" alt="NumPy"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-scikit--learn-1C1B19?style=flat-square&logo=scikitlearn&logoColor=F8F6F2" alt="scikit-learn"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Keras-1C1B19?style=flat-square&logo=keras&logoColor=F8F6F2" alt="Keras"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-HuggingFace-1C1B19?style=flat-square&logo=huggingface&logoColor=F8F6F2" alt="HuggingFace"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-ONNX-1C1B19?style=flat-square&logo=onnx&logoColor=F8F6F2" alt="ONNX"/></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,go,kotlin,cpp,rust,pytorch,tensorflow,scikitlearn&theme=light" alt="Python, Go, Kotlin, C++, Rust, PyTorch, TensorFlow, scikit-learn" />
 
 **Systems**
 
@@ -106,39 +91,9 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 **Engineering**
 
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-AWS-1C1B19?style=flat-square" alt="AWS"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Azure-1C1B19?style=flat-square" alt="Azure"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-AWS%20Lambda-1C1B19?style=flat-square" alt="AWS Lambda"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Amazon%20ECS-1C1B19?style=flat-square" alt="Amazon ECS"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-AWS%20CDK-1C1B19?style=flat-square" alt="AWS CDK"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Docker-1C1B19?style=flat-square&logo=docker&logoColor=F8F6F2" alt="Docker"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Kubernetes-1C1B19?style=flat-square&logo=kubernetes&logoColor=F8F6F2" alt="Kubernetes"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-FastAPI-1C1B19?style=flat-square&logo=fastapi&logoColor=F8F6F2" alt="FastAPI"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Django-1C1B19?style=flat-square&logo=django&logoColor=F8F6F2" alt="Django"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Angular-1C1B19?style=flat-square&logo=angular&logoColor=F8F6F2" alt="Angular"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-Redis-1C1B19?style=flat-square&logo=redis&logoColor=F8F6F2" alt="Redis"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-PostgreSQL-1C1B19?style=flat-square&logo=postgresql&logoColor=F8F6F2" alt="PostgreSQL"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-MongoDB-1C1B19?style=flat-square&logo=mongodb&logoColor=F8F6F2" alt="MongoDB"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Grafana-1C1B19?style=flat-square&logo=grafana&logoColor=F8F6F2" alt="Grafana"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Prometheus-1C1B19?style=flat-square&logo=prometheus&logoColor=F8F6F2" alt="Prometheus"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Elasticsearch-1C1B19?style=flat-square&logo=elasticsearch&logoColor=F8F6F2" alt="Elasticsearch"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Splunk-1C1B19?style=flat-square&logo=splunk&logoColor=F8F6F2" alt="Splunk"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Datadog-1C1B19?style=flat-square&logo=datadog&logoColor=F8F6F2" alt="Datadog"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Jenkins-1C1B19?style=flat-square&logo=jenkins&logoColor=F8F6F2" alt="Jenkins"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-TeamCity-1C1B19?style=flat-square&logo=teamcity&logoColor=F8F6F2" alt="TeamCity"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-Git-1C1B19?style=flat-square&logo=git&logoColor=F8F6F2" alt="Git"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-GitHub%20Actions-1C1B19?style=flat-square&logo=githubactions&logoColor=F8F6F2" alt="GitHub Actions"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Claude%20Code-1C1B19?style=flat-square&logo=claude&logoColor=F8F6F2" alt="Claude Code"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-GitHub%20Copilot-1C1B19?style=flat-square&logo=githubcopilot&logoColor=F8F6F2" alt="GitHub Copilot"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Cursor-1C1B19?style=flat-square&logo=cursor&logoColor=F8F6F2" alt="Cursor"/></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,fastapi,django,angular,redis,postgres,mongodb,grafana,prometheus,elasticsearch,jenkins,terraform,git,github,githubactions&theme=light" alt="AWS, Azure, Docker, Kubernetes, FastAPI, Django, Angular, Redis, PostgreSQL, MongoDB, Grafana, Prometheus, Elasticsearch, Jenkins, Terraform, Git, GitHub, GitHub Actions" />
+
+Also in the rotation: AWS Lambda, ECS, and CDK; TeamCity; Splunk and Datadog; and daily-driver AI coding agents — Claude Code, Cursor, and GitHub Copilot.
 
 <br/>
 
