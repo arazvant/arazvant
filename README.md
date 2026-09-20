@@ -62,15 +62,15 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 **Foundations**
 
-<img src="./assets/stack-foundations.svg?v=2" width="100%" alt="Python, Go, Kotlin, C++, Rust, PyTorch, TensorFlow, scikit-learn" />
+<img src="./assets/stack-foundations.svg?v=4" width="100%" alt="Python, Go, Kotlin, C++, Rust, PyTorch, TensorFlow, scikit-learn" />
 
 **Systems**
 
-<img src="./assets/stack-systems.svg?v=3" width="100%" alt="CUDA, TensorRT, Triton, DeepStream, Jetson, vLLM, ONNX, HuggingFace, OpenCV, Qdrant, LangChain, LangGraph, Pydantic AI, MCP, Ollama, NeMo, Ray, Core ML, pgvector, Weights &amp; Biases, MLflow, LangSmith, Logfire, AzureML" />
+<img src="./assets/stack-systems.svg?v=4" width="100%" alt="CUDA, TensorRT, Triton, DeepStream, Jetson, vLLM, ONNX, HuggingFace, OpenCV, Qdrant, LangChain, LangGraph, Pydantic AI, MCP, Ollama, NeMo, Ray, Core ML, pgvector, Weights &amp; Biases, MLflow, LangSmith, Logfire, AzureML" />
 
 **Engineering**
 
-<img src="./assets/stack-engineering.svg?v=3" width="100%" alt="AWS, Azure, Lambda, ECS, AWS CDK, AWS IoT, Docker, Kubernetes, Terraform, FastAPI, Django, Angular, PostgreSQL, Redis, MongoDB, Elasticsearch, Grafana, Prometheus, Splunk, Datadog, Jenkins, TeamCity, Kafka, Airflow, OpenSearch, OpenTelemetry, gRPC, NATS, WebRTC, Istio, Envoy, GStreamer, FFmpeg, Argo CD, Helm, DVC, Git, GitHub Actions, Claude Code, Cursor, Copilot" />
+<img src="./assets/stack-engineering.svg?v=4" width="100%" alt="AWS, Azure, Lambda, ECS, AWS CDK, AWS IoT, Docker, Kubernetes, Terraform, FastAPI, Django, Angular, PostgreSQL, Redis, MongoDB, Elasticsearch, Grafana, Prometheus, Splunk, Datadog, Jenkins, TeamCity, Kafka, Airflow, OpenSearch, OpenTelemetry, gRPC, NATS, WebRTC, Istio, Envoy, GStreamer, FFmpeg, Argo CD, Helm, DVC, Git, GitHub Actions, Claude Code, Cursor, Copilot" />
 
 <br/>
 
