@@ -7,8 +7,8 @@
   raw.githubusercontent.com caches aggressively and won't otherwise pick up changes.
   assets/profile-photo.gif is the pixel-portrait GIF, resampled to 5fps.
   assets/stack-*.svg are the tech-stack tile grids — every tile the same size,
-  charcoal on cream, simple-icons glyph where one exists and a monogram where it
-  doesn't. Regenerate with: python3 assets/gen_stack.py (edit the lists in there).
+  charcoal on cream, real simple-icons glyphs pulled from the jsDelivr CDN.
+  Regenerate with: python3 assets/gen_stack.py (edit the lists in there).
 
   Page flow: Who am I -> What I do -> Why follow -> CTAs -> Connect -> (activity)
 -->
@@ -61,15 +61,15 @@ I like to think about Software and AI grouped in three ladders, which is the way
 
 **Foundations**
 
-<img src="./assets/stack-foundations.svg?v=1" width="100%" alt="Python, Go, Kotlin, C++, Rust, PyTorch, TensorFlow, scikit-learn" />
+<img src="./assets/stack-foundations.svg?v=2" width="100%" alt="Python, Go, Kotlin, C++, Rust, PyTorch, TensorFlow, scikit-learn" />
 
 **Systems**
 
-<img src="./assets/stack-systems.svg?v=1" width="100%" alt="CUDA, TensorRT, Triton, DeepStream, Jetson, vLLM, ONNX, HuggingFace, OpenCV, Qdrant, LangChain, LangGraph, Pydantic AI, Anthropic, OpenAI, Ollama, MCP, Groq, Weights & Biases, MLflow, Opik, AzureML" />
+<img src="./assets/stack-systems.svg?v=2" width="100%" alt="CUDA, TensorRT, Triton, DeepStream, Jetson, vLLM, ONNX, HuggingFace, OpenCV, Qdrant, LangChain, LangGraph, Pydantic AI, MCP, Ollama, Weights & Biases, MLflow, AzureML" />
 
 **Engineering**
 
-<img src="./assets/stack-engineering.svg?v=1" width="100%" alt="AWS, Azure, Lambda, ECS, CDK, Docker, Kubernetes, Terraform, FastAPI, Django, Angular, PostgreSQL, Redis, MongoDB, Elasticsearch, Grafana, Prometheus, Splunk, Datadog, Jenkins, TeamCity, Git, GitHub Actions, Claude Code, Cursor, Copilot" />
+<img src="./assets/stack-engineering.svg?v=2" width="100%" alt="AWS, Azure, Lambda, ECS, AWS CDK, Docker, Kubernetes, Terraform, FastAPI, Django, Angular, PostgreSQL, Redis, MongoDB, Elasticsearch, Grafana, Prometheus, Splunk, Datadog, Jenkins, TeamCity, Git, GitHub Actions, Claude Code, Cursor, Copilot" />
 
 <br/>
 
