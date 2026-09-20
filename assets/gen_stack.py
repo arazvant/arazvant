@@ -15,13 +15,13 @@ MUTED = "#6B6960"
 CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".icon_cache")
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-TILE = 54
-GLYPH = 28
-GAP_X = 20
-GAP_Y = 16
+TILE = 46
+GLYPH = 24
+GAP_X = 14
+GAP_Y = 14
 LABEL_H = 14
-PAD = 22
-PER_ROW = 10
+PAD = 20
+PER_ROW = 12
 FONT = "Helvetica Neue, Helvetica, Arial, sans-serif"
 
 
@@ -184,7 +184,7 @@ ENGINEERING = [
     ("PostgreSQL", "postgresql", None),
     ("Redis", "redis", None),
     ("MongoDB", "mongodb", None),
-    ("Elasticsearch", "elasticsearch", None),
+    ("Elastic", "elasticsearch", None),
     ("Grafana", "grafana", None),
     ("Prometheus", "prometheus", None),
     ("Splunk", "splunk", None),
@@ -194,7 +194,7 @@ ENGINEERING = [
     ("Kafka", "apachekafka", None),
     ("Airflow", "apacheairflow", None),
     ("OpenSearch", "opensearch", None),
-    ("OpenTelemetry", "opentelemetry", None),
+    ("OTel", "opentelemetry", None),
     ("gRPC", "dv:grpc-plain", None),
     ("NATS", "natsdotio", None),
     ("WebRTC", "webrtc", None),
@@ -209,7 +209,6 @@ ENGINEERING = [
     ("Actions", "githubactions", None),
     ("Claude Code", "claude", None),
     ("Cursor", "cursor", None),
-    ("Copilot", "githubcopilot", None),
 ]
 
 if __name__ == "__main__":
