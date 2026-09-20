@@ -25,18 +25,40 @@ PER_ROW = 10
 FONT = "Helvetica Neue, Helvetica, Arial, sans-serif"
 
 
-def fetch_icon(slug):
-    os.makedirs(CACHE, exist_ok=True)
-    path = os.path.join(CACHE, slug + ".svg")
-    if not os.path.exists(path):
+def fetch_icon(spec):
+    """Fetch an icon by spec and return (path_d_list, (minx, miny, w, h)).
+
+    spec is either a bare simple-icons slug ("python"), or prefixed:
+      "si:<slug>"          simple-icons  (24x24 viewBox)
+      "dv:<name>-<variant> devicon       (usually 128x128)
+    """
+    if spec.startswith("dv:"):
+        name = spec[3:]
+        base = name.rsplit("-", 1)[0]
+        url = (
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/%s/%s.svg"
+            % (base, name)
+        )
+        cache_key = "dv_" + name
+    else:
+        slug = spec[3:] if spec.startswith("si:") else spec
         url = "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/%s.svg" % slug
+        cache_key = "si_" + slug
+
+    os.makedirs(CACHE, exist_ok=True)
+    path = os.path.join(CACHE, cache_key + ".svg")
+    if not os.path.exists(path):
         urllib.request.urlretrieve(url, path)
     with open(path) as f:
         content = f.read()
-    m = re.search(r'<path[^>]*\sd="([^"]+)"', content)
-    if not m:
-        raise ValueError("no path found for %s" % slug)
-    return m.group(1)
+
+    paths = re.findall(r'<path[^>]*\sd="([^"]+)"', content)
+    if not paths:
+        raise ValueError("no path found for %s" % spec)
+
+    vb = re.search(r'viewBox="([\d.\-]+)\s+([\d.\-]+)\s+([\d.\-]+)\s+([\d.\-]+)"', content)
+    box = tuple(float(v) for v in vb.groups()) if vb else (0.0, 0.0, 24.0, 24.0)
+    return paths, box
 
 
 def monogram_size(text):
@@ -68,13 +90,18 @@ def build(items, out_name):
                 % (x, y, TILE, TILE, CHARCOAL)
             )
             if slug:
-                d = fetch_icon(slug)
-                scale = GLYPH / 24.0
-                gx = x + (TILE - GLYPH) / 2.0
-                gy = y + (TILE - GLYPH) / 2.0
+                paths, (bx, by, bw, bh) = fetch_icon(slug)
+                edge = max(bw, bh)
+                scale = GLYPH / edge
+                # centre the icon's own box inside the tile
+                gx = x + (TILE - bw * scale) / 2.0 - bx * scale
+                gy = y + (TILE - bh * scale) / 2.0 - by * scale
+                glyphs = "".join(
+                    '<path d="%s" fill="%s"/>' % (d, CREAM) for d in paths
+                )
                 parts.append(
-                    '<g transform="translate(%.2f,%.2f) scale(%.4f)">'
-                    '<path d="%s" fill="%s"/></g>' % (gx, gy, scale, d, CREAM)
+                    '<g transform="translate(%.2f,%.2f) scale(%.4f)">%s</g>'
+                    % (gx, gy, scale, glyphs)
                 )
             else:
                 parts.append(
@@ -130,8 +157,14 @@ SYSTEMS = [
     ("Pydantic AI", "pydantic", None),
     ("MCP", "modelcontextprotocol", None),
     ("Ollama", "ollama", None),
+    ("NeMo", "nvidia", None),
+    ("Ray", "ray", None),
+    ("Core ML", "apple", None),
+    ("pgvector", "postgresql", None),
     ("W&amp;B", "weightsandbiases", None),
     ("MLflow", "mlflow", None),
+    ("LangSmith", "langchain", None),
+    ("Logfire", "pydantic", None),
     ("AzureML", "microsoftazure", None),
 ]
 
@@ -141,6 +174,7 @@ ENGINEERING = [
     ("Lambda", "awslambda", None),
     ("ECS", "amazonecs", None),
     ("AWS CDK", "amazonwebservices", None),
+    ("AWS IoT", "amazonwebservices", None),
     ("Docker", "docker", None),
     ("Kubernetes", "kubernetes", None),
     ("Terraform", "terraform", None),
@@ -157,6 +191,20 @@ ENGINEERING = [
     ("Datadog", "datadog", None),
     ("Jenkins", "jenkins", None),
     ("TeamCity", "teamcity", None),
+    ("Kafka", "apachekafka", None),
+    ("Airflow", "apacheairflow", None),
+    ("OpenSearch", "opensearch", None),
+    ("OpenTelemetry", "opentelemetry", None),
+    ("gRPC", "dv:grpc-plain", None),
+    ("NATS", "natsdotio", None),
+    ("WebRTC", "webrtc", None),
+    ("Istio", "istio", None),
+    ("Envoy", "envoyproxy", None),
+    ("GStreamer", "gstreamer", None),
+    ("FFmpeg", "ffmpeg", None),
+    ("Argo CD", "argo", None),
+    ("Helm", "helm", None),
+    ("DVC", "dvc", None),
     ("Git", "git", None),
     ("Actions", "githubactions", None),
     ("Claude Code", "claude", None),
