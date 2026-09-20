@@ -15,13 +15,13 @@ MUTED = "#6B6960"
 CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".icon_cache")
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-TILE = 46
-GLYPH = 24
-GAP_X = 14
-GAP_Y = 14
-LABEL_H = 14
+TILE = 36
+GLYPH = 19
+GAP_X = 12
+GAP_Y = 12
+LABEL_H = 12
 PAD = 20
-PER_ROW = 12
+PER_ROW = 15
 FONT = "Helvetica Neue, Helvetica, Arial, sans-serif"
 
 
@@ -118,8 +118,8 @@ def build(items, out_name):
                 )
             parts.append(
                 '<text x="%.1f" y="%.1f" text-anchor="middle" font-family="%s" '
-                'font-weight="500" font-size="10" fill="%s">%s</text>'
-                % (x + TILE / 2.0, y + TILE + 12, FONT, MUTED, label)
+                'font-weight="500" font-size="8" fill="%s">%s</text>'
+                % (x + TILE / 2.0, y + TILE + 10, FONT, MUTED, label)
             )
 
     parts.append("</svg>")
@@ -138,7 +138,7 @@ FOUNDATIONS = [
     ("Rust", "rust", None),
     ("PyTorch", "pytorch", None),
     ("TensorFlow", "tensorflow", None),
-    ("scikit-learn", "scikitlearn", None),
+    ("sklearn", "scikitlearn", None),
 ]
 
 SYSTEMS = [
@@ -149,12 +149,12 @@ SYSTEMS = [
     ("Jetson", "nvidia", None),
     ("vLLM", "vllm", None),
     ("ONNX", "onnx", None),
-    ("HuggingFace", "huggingface", None),
+    ("HF", "huggingface", None),
     ("OpenCV", "opencv", None),
     ("Qdrant", "qdrant", None),
     ("LangChain", "langchain", None),
     ("LangGraph", "langgraph", None),
-    ("Pydantic AI", "pydantic", None),
+    ("Pydantic", "pydantic", None),
     ("MCP", "modelcontextprotocol", None),
     ("Ollama", "ollama", None),
     ("NeMo", "nvidia", None),
@@ -176,12 +176,12 @@ ENGINEERING = [
     ("AWS CDK", "amazonwebservices", None),
     ("AWS IoT", "amazonwebservices", None),
     ("Docker", "docker", None),
-    ("Kubernetes", "kubernetes", None),
+    ("K8s", "kubernetes", None),
     ("Terraform", "terraform", None),
     ("FastAPI", "fastapi", None),
     ("Django", "django", None),
     ("Angular", "angular", None),
-    ("PostgreSQL", "postgresql", None),
+    ("Postgres", "postgresql", None),
     ("Redis", "redis", None),
     ("MongoDB", "mongodb", None),
     ("Elastic", "elasticsearch", None),
@@ -207,7 +207,7 @@ ENGINEERING = [
     ("DVC", "dvc", None),
     ("Git", "git", None),
     ("Actions", "githubactions", None),
-    ("Claude Code", "claude", None),
+    ("Claude", "claude", None),
     ("Cursor", "cursor", None),
 ]
 
