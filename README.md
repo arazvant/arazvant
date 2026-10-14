@@ -105,19 +105,11 @@ I like to think about Software and AI grouped in three ladders, which is the way
 <p align="center">
 <a href="https://www.linkedin.com/in/arazvant/"><img src="https://img.shields.io/badge/-LinkedIn-1C1B19?style=flat-square" /></a>
 <a href="https://theaimerge.com"><img src="https://img.shields.io/badge/-Website-1C1B19?style=flat-square" /></a>
-<a href="mailto:alexandrurazvant@gmail.com"><img src="https://img.shields.io/badge/-Email-1C1B19?style=flat-square&logo=gmail&logoColor=F8F6F2" /></a>
-<a href="https://medium.com/@arazvant"><img src="https://img.shields.io/badge/-Medium-1C1B19?style=flat-square&logo=medium&logoColor=F8F6F2" /></a>
 <a href="https://twitter.com/RazvantAlexand"><img src="https://img.shields.io/badge/-X-1C1B19?style=flat-square&logo=x&logoColor=F8F6F2" /></a>
 <a href="https://read.theaimerge.com"><img src="https://img.shields.io/badge/-Substack-1C1B19?style=flat-square&logo=substack&logoColor=F8F6F2" /></a>
 <a href="https://www.youtube.com/@theaimerge"><img src="https://img.shields.io/badge/-YouTube-1C1B19?style=flat-square&logo=youtube&logoColor=F8F6F2" /></a>
 <a href="https://github.com/the-ai-merge"><img src="https://img.shields.io/badge/-GitHub%20Org-1C1B19?style=flat-square&logo=github&logoColor=F8F6F2" /></a>
 </p>
-
-<br/>
-
-<!-- <p align="center">
-<img src="https://streak-stats.demolab.com/?user=arazvant&background=F8F6F2&border=E4E1DA&ring=D95319&fire=D95319&currStreakLabel=1C1B19&sideLabels=1C1B19&currStreakNum=1C1B19&sideNums=1C1B19&dates=A09F9A&stroke=E4E1DA" width="65%" alt="streak" />
-</p> -->
 
 <br/>
 
